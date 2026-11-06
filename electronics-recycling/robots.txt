@@ -1,15 +1,69 @@
-# robots.txt
-# Policy: ALLOW ALL crawlers (search engines, SEO tools, AI bots)
-# Clients verify backlinks via Ahrefs/Semrush/Majestic — blocking these defeats the purpose
-# Only pure bulk training harvesters with zero citation/indexing value are blocked
-# --- DEFAULT: ALLOW ALL CRAWLERS ---
 User-agent: *
 Allow: /
-# --- PURE TRAINING HARVESTERS ONLY (blocked — no citation or SEO value) ---
-User-agent: CCBot
-Disallow: /
-User-agent: Diffbot
-Disallow: /
-User-agent: Bytespider
-Disallow: /
-Sitemap: https://pub-2f92044261534bbcbe485687cc521feb.r2.dev/campaigns/b15aeec8/html/houston-united-computer-recycling/sitemap.xml
+
+Sitemap: https://cloud-authority-pages.github.io/cloud-links-b15aeec8/electronics-recycling/sitemap.xml
+
+https://cloud-authority-pages.github.io/cloud-links-b15aeec8/electronics-recycling/b15aeec8--electronics-recycling-houston.html
+https://cloud-links.s3.ap-southeast-2.onidel.cloud/electronics-recycling/b15aeec8/computer-recycling-houston.html
+https://cloud-links.ewr1.vultrobjects.com/electronics-recycling/b15aeec8/e-waste-recycling-houston.html
+https://authorityhub-use2.s3.us-east-2.amazonaws.com/electronics-recycling/b15aeec8/electronics-recycling-houston-tx.html
+https://seo-authority.id-cgk-1.linodeobjects.com/electronics-recycling/b15aeec8/secure-data-destruction-houston.html
+https://link-network-aps1.s3.ap-south-1.amazonaws.com/electronics-recycling/b15aeec8/hard-drive-shredding-houston.html
+https://cloud-links.us-east-1.telnyxcloudstorage.com/electronics-recycling/b15aeec8/it-asset-disposal-houston.html
+https://cloud-links.s3.nl-ams.scw.cloud/electronics-recycling/b15aeec8/electronics-disposal-houston.html
+https://seo-cloud.id-cgk-1.linodeobjects.com/electronics-recycling/b15aeec8/free-electronics-recycling-houston.html
+https://pub-891b9942b8f342e39c857f9cff7177de.r2.dev/electronics-recycling/b15aeec8/electronics-pickup-houston.html
+https://linkauthority-apse2.s3.ap-southeast-2.amazonaws.com/electronics-recycling/b15aeec8/houston-e-waste-drop-off.html
+https://j6a4.c18.e2-5.dev/cloud-links/electronics-recycling/b15aeec8/recycle-old-electronics-houston.html
+https://storage.googleapis.com/cloud-links-360512/electronics-recycling/b15aeec8/houston-electronics-collection.html
+https://cloudauthority-apse1.s3.ap-southeast-1.amazonaws.com/electronics-recycling/b15aeec8/computer-disposal-houston.html
+https://authoritystack-apne2.s3.ap-northeast-2.amazonaws.com/electronics-recycling/b15aeec8/laptop-recycling-houston.html
+https://cloud-stack.us-iad-10.linodeobjects.com/electronics-recycling/b15aeec8/tv-recycling-houston.html
+https://object-storage.nz-por-1.catalystcloud.io/v1/AUTH_c332ce830ed4484498bccfc1d13947b3/cloud-links/electronics-recycling/b15aeec8/cell-phone-recycling-houston.html
+https://cloud-links.cellar-c2.services.clever-cloud.com/electronics-recycling/b15aeec8/printer-recycling-houston.html
+https://authoritynetwork-euw2.s3.eu-west-2.amazonaws.com/electronics-recycling/b15aeec8/monitor-recycling-houston.html
+https://link-engine-eun1.s3.eu-north-1.amazonaws.com/electronics-recycling/b15aeec8/houston-green-disposal.html
+https://webengine.nyc3.digitaloceanspaces.com/electronics-recycling/b15aeec8/electronics-waste-houston.html
+https://cloud-links.sos-ch-dk-2.exo.io/electronics-recycling/b15aeec8/houston-certified-recycling.html
+https://pub-4b4f2d6453204a1db2dc8212eadb68ba.r2.dev/electronics-recycling/b15aeec8/responsible-electronics-disposal.html
+https://cab-links-eusou.s3.eu-south-1.amazonaws.com/electronics-recycling/b15aeec8/houston-it-equipment-disposal.html
+https://linkboost-eucen.s3.eu-central-2.amazonaws.com/electronics-recycling/b15aeec8/recycle-servers-houston.html
+https://cloudlinks-apsou.s3.ap-south-2.amazonaws.com/electronics-recycling/b15aeec8/houston-tech-waste-pickup.html
+https://s3.us-east-1.wasabisys.com/linkhub/electronics-recycling/b15aeec8/electronics-shredding-houston.html
+https://cloudlinks.blob.core.windows.net/linkdaddy-cab/electronics-recycling/b15aeec8/houston-electronics-haul-away.html
+https://cloud-authority.id-cgk-1.linodeobjects.com/electronics-recycling/b15aeec8/recycle-tablets-houston.html
+https://authoritycloud.us-sea-1.linodeobjects.com/electronics-recycling/b15aeec8/houston-computer-collection.html
+https://cab-cloud.id-cgk-1.linodeobjects.com/electronics-recycling/b15aeec8/electronics-reuse-houston.html
+https://cloud-links.ap-southeast-mys1.oss.ips1cloud.com/electronics-recycling/b15aeec8/houston-electronic-waste-center.html
+https://cloud-links.s3.us-south.cloud-object-storage.appdomain.cloud/electronics-recycling/b15aeec8/recycle-batteries-houston.html
+https://authority-force-mecen.s3.me-central-1.amazonaws.com/electronics-recycling/b15aeec8/houston-electronics-drop-box.html
+https://authorityboost-euw1.s3.eu-west-1.amazonaws.com/electronics-recycling/b15aeec8/electronics-refurbishing-houston.html
+https://link-stack.us-southeast-1.linodeobjects.com/electronics-recycling/b15aeec8/houston-itad-services.html
+https://cloud-links.s3-eu-central-1.ionoscloud.com/electronics-recycling/b15aeec8/recycle-networking-gear.html
+https://cloudsites.us-southeast-1.linodeobjects.com/electronics-recycling/b15aeec8/houston-electronics-collection-site.html
+https://digital-authority-afsou.s3.af-south-1.amazonaws.com/electronics-recycling/b15aeec8/electronics-demanufacturing-houston.html
+https://authorityhub-usw2.s3.us-west-2.amazonaws.com/electronics-recycling/b15aeec8/houston-ewaste-facility.html
+https://cloud-links-use2.s3.us-east-2.amazonaws.com/electronics-recycling/b15aeec8/recycle-cables-houston.html
+https://cloudlinks.fsn1.your-objectstorage.com/electronics-recycling/b15aeec8/houston-tech-disposal-center.html
+https://seoengine.br-gru-1.linodeobjects.com/electronics-recycling/b15aeec8/electronics-asset-recovery.html
+https://authority-hub.us-sea-1.linodeobjects.com/electronics-recycling/b15aeec8/houston-computer-pickup-service.html
+https://0kfoc.upcloudobjects.com/cloud-links/electronics-recycling/b15aeec8/recycle-copiers-houston.html
+https://cloud-force-apne2.s3.ap-northeast-2.amazonaws.com/electronics-recycling/b15aeec8/houston-electronics-waste-management.html
+https://seo-cloud-usw1.s3.us-west-1.amazonaws.com/electronics-recycling/b15aeec8/electronics-collection-event.html
+https://cloud-links.chicago-1.storage.gcore.dev/electronics-recycling/b15aeec8/houston-certified-e-waste-handler.html
+https://cloudvault-usw1.s3.us-west-1.amazonaws.com/electronics-recycling/b15aeec8/recycle-projectors-houston.html
+https://cloudauthority-aps1.s3.ap-south-1.amazonaws.com/electronics-recycling/b15aeec8/houston-electronics-sanitization.html
+https://cloud-links.s3.eu-west-par.io.cloud.ovh.net/electronics-recycling/b15aeec8/electronics-logistics-houston.html
+https://authority-links-eucen.s3.eu-central-2.amazonaws.com/electronics-recycling/b15aeec8/houston-electronics-reuse-program.html
+https://seo-cloud-apse1.s3.ap-southeast-1.amazonaws.com/electronics-recycling/b15aeec8/recycle-ups-batteries-houston.html
+https://cloudlinks.fsn1.your-objectstorage.com/electronics-recycling/b15aeec8/houston-electronics-compliance.html
+https://s3.us-east-1.wasabisys.com/linkhub/electronics-recycling/b15aeec8/electronics-material-recovery.html
+https://cloud-links.ewr1.vultrobjects.com/electronics-recycling/b15aeec8/houston-electronics-audit.html
+https://s3.us-west-004.backblazeb2.com/cloud-links/electronics-recycling/b15aeec8/recycle-routers-houston.html
+https://cloud-links.s3.us-south.cloud-object-storage.appdomain.cloud/electronics-recycling/b15aeec8/houston-electronics-transportation.html
+https://cloud-links.sos-ch-dk-2.exo.io/electronics-recycling/b15aeec8/electronics-chain-of-custody.html
+https://cloud-links.s3-eu-central-1.ionoscloud.com/electronics-recycling/b15aeec8/houston-electronics-tracking.html
+https://cloud-links.s3.ap-southeast-2.onidel.cloud/electronics-recycling/b15aeec8/recycle-switches-houston.html
+https://cloud-links.s3.filebase.io/electronics-recycling/b15aeec8/houston-electronics-reporting.html
+https://cloud-links.t3.tigrisbucket.io/electronics-recycling/b15aeec8/houston-electronics-logistics.html
+https://cloud-links.nyc3.digitaloceanspaces.com/electronics-recycling/b15aeec8/electronics-chain-tracking.html
